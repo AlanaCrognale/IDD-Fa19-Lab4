@@ -71,7 +71,7 @@ This design is an updated version of my data logger from lab 3, where the FSR me
 
 ![too_much](https://github.com/AlanaCrognale/IDD-Fa19-Lab4/blob/master/too_much.mov)
 
-![perfect](https://github.com/AlanaCrognale/IDD-Fa19-Lab4/blob/master/perfect.mov)
+![perfect](https://github.com/AlanaCrognale/IDD-Fa19-Lab4/blob/master/perfect_amount.mov)
 
 ![not_enough](https://github.com/AlanaCrognale/IDD-Fa19-Lab4/blob/master/not_enough.mov)
 
