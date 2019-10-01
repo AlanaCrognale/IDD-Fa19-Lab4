@@ -9,6 +9,7 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 ## Part A. Actuating DC motors
 
 **Link to a video of your virbation motor**
+
 ![vibrating_motor]("https://github.com/AlanaCrognale/IDD-Fa19-Lab4/blob/master/vibrating_motor.mov")
 
 ## Part B. Actuating Servo motors
