@@ -18,8 +18,10 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **a. Which color wires correspond to power, ground and signal?**
 
-Power: Red
-Ground: Brown
+Red: Power
+
+Brown: Ground
+
 Orange: PWM Pin (10)
 
 ### Part 2. Connect the Servo to your Arduino
